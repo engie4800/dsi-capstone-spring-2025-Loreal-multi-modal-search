@@ -4,16 +4,13 @@
 
 This course provides a unique opportunity for students in the MS in Data Science program to apply their knowledge of the foundations, theory and methods of data science to address data driven problems in industry, research, government and the non-profit sector. The course activities focus on a semester-long project sponsored by an affiliate company or a Columbia faculty member. The project synthesizes the statistical, computational, engineering and social challenges involved in solving complex real-world problems. The course has a well developed Ethics component supported by Dr. Savannah Thais. 
 
-## Team Structure
+## Team Members
 
-Select a team captain (with or without help from mentor/instructor/supervisor)
-
-Record your names here in this format-
-1. Team captain name, UNI
-2. Member name, UNI
-3. Member name, UNI
-
-and so on.   
+1. Claire Chen, yc4562
+2. ChengHsin Chang, cc5211
+3. Caterina Almazan, cga2133
+4. Albert Chi, yc4548
+5. Param Sejpal, pns2129
 
 ## Instructions
 
